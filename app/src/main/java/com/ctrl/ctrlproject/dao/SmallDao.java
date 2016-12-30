@@ -24,6 +24,7 @@ public class SmallDao extends IDao {
      * 用户信息
      * */
     private MemberInfo memberInfo;
+    private MemberInfo memberInfo1;
 
 
     public SmallDao(INetResult activity){

@@ -1,0 +1,18 @@
+<resources >
+
+    <style name="BaseAppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="@style/BaseAppTheme">
+    </style>
+
+    <style name="ImageTranslucentTheme" parent="AppTheme">
+    </style>
+
+    <style name="ColorTranslucentTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    </style>
+
+
+
+</resources>

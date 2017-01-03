@@ -24,6 +24,7 @@ public class LoginDao extends IDao {
      * 用户信息
      * */
     private MemberInfo memberInfo;
+    private MemberInfo memberInfo123;
 
 
     public LoginDao(INetResult activity){
